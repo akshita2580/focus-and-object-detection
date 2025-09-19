@@ -27,6 +27,7 @@
     "react/require-default-props": "off",
     "react/jsx-no-bind": "off",
     "no-nested-ternary": "off",
+    "no-unused-vars": "warn",
     "react/destructuring-assignment": "off"
   }
 }
